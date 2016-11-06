@@ -2,11 +2,10 @@
 
 ##Name Peter##
 
-##Date 11-05-2016##
+##**Date 11-05-2016**##
 
-Github Username peterliu3
+##Github Username peterliu3##
 
-My favorite Programming Language is Python
+##My favorite Programming Language is Python##
 
 
-"Hello World"
